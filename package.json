@@ -1,0 +1,24 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "A web crawler using JS.",
+  "homepage": "https://github.com/DivineDB/webcrawlerhttp#readme",
+  "bugs": {
+    "url": "https://github.com/DivineDB/webcrawlerhttp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DivineDB/webcrawlerhttp.git"
+  },
+  "license": "ISC",
+  "author": "DB",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.1.1"
+  }
+}
